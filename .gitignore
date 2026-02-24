@@ -1,0 +1,24 @@
+__pycache__/
+._____temp/
+pred/
+logs/
+*.pyc
+*.pyo
+
+# jupyter
+*.ipynb
+
+# word
+*.docx
+
+# 日志
+*.log
+
+# 大模型文件
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+
+# 带 apikey
+utils.py
